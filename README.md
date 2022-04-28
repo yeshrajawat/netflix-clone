@@ -2,8 +2,17 @@
 
 # Checkout the Website from the link given below
 https://netflix-clone-ea4dc.web.app/
+
+
+
+![alt text](https://github.com/yeshrajawat/netflix-clone/blob/master/Screenshot%202022-04-28%20at%2023-45-28%20Netflix%20Clone%20India%20-%20Watch%20TV%20Shows.png)
+
+![alt text](https://github.com/yeshrajawat/netflix-clone/blob/master/Screenshot%202022-04-28%20at%2023-45-41%20Netflix%20Clone%20India%20-%20Watch%20TV%20Shows.png)
+
 ![alt text](https://github.com/yeshrajawat/netflix-clone/blob/master/Screenshot%202022-04-28%20at%2023-41-01%20Netflix%20Clone%20India%20-%20Watch%20TV%20Shows.png)
 
+
+![alt text](https://github.com/yeshrajawat/netflix-clone/blob/master/Screenshot%202022-04-28%20at%2023-46-08%20Netflix%20Clone%20India%20-%20Watch%20TV%20Shows.png)
 
 # Getting Started with Create React App and Redux
 
