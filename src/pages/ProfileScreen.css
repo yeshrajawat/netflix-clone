@@ -1,0 +1,72 @@
+.profileScreen{
+    height: 100vh;
+    color: white;
+}
+.profileScreen__body{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 8%;
+    max-width: 880px;
+}
+
+.profileScreen__body h1 {
+     font-size: 60px;
+     font-weight: 400;
+     border-bottom: 1px solid #282c2d;
+     margin-bottom: 20px;
+
+}
+
+.profileScreen__info{
+    display: flex;
+}
+.profileScreen__info img {
+     height: 100px;
+}
+.profileScreen__details {
+    color: white;
+    margin-left: 25px;
+    flex: 1;
+}
+
+.profileScreen__details h2 {
+     background: gray;
+     font-size: 16px;
+     padding: 15px;
+     padding-left: 20px;
+}
+.profileScreen__plans h3{
+    padding: 10px;
+    border-bottom: 1px solid #282c2d;
+    padding-bottom: 10px;
+}
+.profileScreen__signOut{
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin-top: 5%;
+    width: 100%;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
+    background-color: #e50914;
+}
+
+.oneplan{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    display: flex;  
+    justify-content: space-between;
+}
+.oneplan button {
+     background-color: #e50914;
+     color: white;
+     border: none;
+     padding: 20px 45px;
+     font-weight: 600;
+     font-family:20px ;
+}
+
